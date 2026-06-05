@@ -41,25 +41,26 @@ Today, I build distributed systems and backend platforms across fintech, AI infr
 
 ---
 
+
 ## 📌 Featured Projects
-realtime-sdk-go
+
+### [realtime-sdk-go](https://github.com/incogni23/realtime-sdk-go)
 
 A Go SDK for building real-time applications and integrations.
 
 Designed with a focus on developer experience, reliability, and clean abstractions for handling real-time communication patterns. The project reflects my interest in building developer-facing infrastructure and reusable backend tooling.
 
-goleakwatch
+### [goleakwatch](https://github.com/incogni23/goleakwatch)
 
 An open-source Go library for detecting goroutine leaks in production applications.
 
 Built with configurable thresholds, pprof stack trace dumps, snapshot comparison, fuzz testing, CI pipelines, and documentation to help engineers identify concurrency issues before they become production incidents.
 
-NotificationSystem
+### [NotificationSystem](https://github.com/incogni23/NotificationSystem)
 
 A distributed notification platform built using Golang, Kafka, PostgreSQL, and Redis.
 
 Supports email, SMS, and push notifications through asynchronous event-driven processing, retry mechanisms, and delivery guarantees.
----
 
 ## 📈 The Journey
 
