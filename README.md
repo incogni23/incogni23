@@ -46,9 +46,11 @@ Today, I build distributed systems and backend platforms across fintech, AI infr
 
 ### [realtime-sdk-go](https://github.com/incogni23/realtime-sdk-go)
 
-A Go SDK for building real-time applications and integrations.
+A lightweight Go SDK for real-time messaging over WebSockets.
 
-Designed with a focus on developer experience, reliability, and clean abstractions for handling real-time communication patterns. The project reflects my interest in building developer-facing infrastructure and reusable backend tooling.
+Built around clean abstractions for connection management, event handling, message delivery, and transport extensibility. Features concurrent-safe operations, pluggable transports, mock-based testing, and a simple developer-friendly API.
+
+Designed with a focus on maintainability and practical engineering rather than framework-heavy abstractions.
 
 ### [goleakwatch](https://github.com/incogni23/goleakwatch)
 
