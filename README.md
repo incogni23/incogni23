@@ -42,19 +42,23 @@ Today, I build distributed systems and backend platforms across fintech, AI infr
 ---
 
 ## 📌 Featured Projects
+realtime-sdk-go
 
-### goleakwatch
+A Go SDK for building real-time applications and integrations.
+
+Designed with a focus on developer experience, reliability, and clean abstractions for handling real-time communication patterns. The project reflects my interest in building developer-facing infrastructure and reusable backend tooling.
+
+goleakwatch
 
 An open-source Go library for detecting goroutine leaks in production applications.
 
-Features configurable thresholds, pprof stack trace dumps, snapshot comparison, fuzz testing, CI pipelines, and comprehensive documentation to help engineers identify concurrency issues before they become incidents.
+Built with configurable thresholds, pprof stack trace dumps, snapshot comparison, fuzz testing, CI pipelines, and documentation to help engineers identify concurrency issues before they become production incidents.
 
-### NotificationSystem
+NotificationSystem
 
 A distributed notification platform built using Golang, Kafka, PostgreSQL, and Redis.
 
-Supports email, SMS, and push notifications through asynchronous event-driven processing, retry mechanisms, and delivery guarantees. Built to explore production-grade messaging patterns and reliability engineering.
-
+Supports email, SMS, and push notifications through asynchronous event-driven processing, retry mechanisms, and delivery guarantees.
 ---
 
 ## 📈 The Journey
