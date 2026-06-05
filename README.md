@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ankita 👋
 
-<!--
-**incogni23/incogni23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 3+ years of experience building distributed systems and event-driven architectures.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Golang
+- Kafka
+- PostgreSQL
+- Redis
+- MongoDB
+- AWS
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- Built ERP systems integrated with IoT devices
+- Designed event-driven backend architectures
+- Worked on AI-powered backend services
+- Built scalable APIs and internal tooling
+
+## Currently
+- Exploring backend and distributed systems opportunities
+- Learning more about AI infrastructure
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/ankita-d-447752167/
+- Email: ankitasde23@gmail.com
